@@ -1,3 +1,6 @@
+## 0.4.5
+- Update platform dependency to 3.1
+
 ## 0.4.4
 - Support Flutter 2.10.0
   - Update Android compileSdkVersion to 31 (Android 12)
